@@ -1,0 +1,15 @@
+C:\Repos\WeatherForecast\WeatherForecast.Data\bin\Debug\net6.0\WeatherForecast.DataStore.deps.json
+C:\Repos\WeatherForecast\WeatherForecast.Data\bin\Debug\net6.0\WeatherForecast.DataStore.dll
+C:\Repos\WeatherForecast\WeatherForecast.Data\bin\Debug\net6.0\WeatherForecast.DataStore.pdb
+C:\Repos\WeatherForecast\WeatherForecast.Data\bin\Debug\net6.0\WeatherForecast.Contracts.dll
+C:\Repos\WeatherForecast\WeatherForecast.Data\bin\Debug\net6.0\WeatherForecast.Contracts.pdb
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.csproj.AssemblyReference.cache
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.AssemblyInfoInputs.cache
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.AssemblyInfo.cs
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.csproj.CoreCompileInputs.cache
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.csproj.CopyComplete
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.dll
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\refint\WeatherForecast.DataStore.dll
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\WeatherForecast.DataStore.pdb
+C:\Repos\WeatherForecast\WeatherForecast.Data\obj\Debug\net6.0\ref\WeatherForecast.DataStore.dll

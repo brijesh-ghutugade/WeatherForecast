@@ -1,0 +1,12 @@
+C:\Repos\WeatherForecast\WeatherForecast.Core\bin\Debug\net6.0\WeatherForecast.Core.deps.json
+C:\Repos\WeatherForecast\WeatherForecast.Core\bin\Debug\net6.0\WeatherForecast.Core.dll
+C:\Repos\WeatherForecast\WeatherForecast.Core\bin\Debug\net6.0\WeatherForecast.Core.pdb
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.csproj.AssemblyReference.cache
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.AssemblyInfoInputs.cache
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.AssemblyInfo.cs
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.csproj.CoreCompileInputs.cache
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.dll
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\refint\WeatherForecast.Core.dll
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\WeatherForecast.Core.pdb
+C:\Repos\WeatherForecast\WeatherForecast.Core\obj\Debug\net6.0\ref\WeatherForecast.Core.dll

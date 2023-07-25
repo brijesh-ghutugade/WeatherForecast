@@ -1,0 +1,15 @@
+C:\Repos\WeatherForecast\OpenMeteo\bin\Debug\net6.0\OpenMeteo.deps.json
+C:\Repos\WeatherForecast\OpenMeteo\bin\Debug\net6.0\OpenMeteo.dll
+C:\Repos\WeatherForecast\OpenMeteo\bin\Debug\net6.0\OpenMeteo.pdb
+C:\Repos\WeatherForecast\OpenMeteo\bin\Debug\net6.0\WeatherForecast.Contracts.dll
+C:\Repos\WeatherForecast\OpenMeteo\bin\Debug\net6.0\WeatherForecast.Contracts.pdb
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.csproj.AssemblyReference.cache
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.AssemblyInfoInputs.cache
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.AssemblyInfo.cs
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.csproj.CoreCompileInputs.cache
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.csproj.CopyComplete
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.dll
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\refint\OpenMeteo.dll
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\OpenMeteo.pdb
+C:\Repos\WeatherForecast\OpenMeteo\obj\Debug\net6.0\ref\OpenMeteo.dll
