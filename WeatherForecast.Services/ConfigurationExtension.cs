@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WeatherForecast.Contracts.Intefaces;
 using WeatherForecast.Contracts.Models;
+using WeatherForecast.Services.Abstractions;
 using WeatherForecast.Services.Validators;
 
 namespace WeatherForecast.Services
@@ -14,10 +15,11 @@ namespace WeatherForecast.Services
     public static class ConfigurationExtension
     {
 
-        public static IServiceCollection AddValidators(this IServiceCollection serviceCollection)
+        public static IServiceCollection AddServices(this IServiceCollection serviceCollection)
         {
             return serviceCollection
-                    .AddSingleton<IValidator<WeatherForecastRequest>, WeatherForecastRequestValidator>();
+                    .AddSingleton<IValidator<WeatherForecastRequest>, WeatherForecastRequestValidator>()
+                    .AddScoped<IWeatherService, WeatherService>();
         }
     }
 }

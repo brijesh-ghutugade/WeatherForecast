@@ -18,13 +18,14 @@ namespace WeatherForecast.Api
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddScoped<IWeatherService, WeatherService>();
             builder.Services.AddWeatherForecastDataStore();
             builder.Services.AddWeatherServiceProvider();
-            builder.Services.AddValidators();
+            builder.Services.AddServices();
             builder.Services.AddCore();
 
             builder.Services.Configure<WeatherSourceApiOptions>(builder.Configuration.GetSection(WeatherSourceApiOptions.WeatherSourceApi));
+
+            //Automapper
             builder.Services.AddSingleton(provider => new MapperConfiguration(cfg =>
             {
                 cfg.AddProfile(new Mapping());
@@ -49,7 +50,6 @@ namespace WeatherForecast.Api
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 
